@@ -1,0 +1,14 @@
+{
+    "_index": "_index",
+    "column-order": [
+        "n_cells",
+        "highly_variable",
+        "means",
+        "dispersions",
+        "dispersions_norm",
+        "highly_variable_nbatches",
+        "highly_variable_intersection"
+    ],
+    "encoding-type": "dataframe",
+    "encoding-version": "0.1.0"
+}

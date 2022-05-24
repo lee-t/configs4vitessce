@@ -1,0 +1,17 @@
+{
+    "_index": "_index",
+    "column-order": [
+        "n_counts",
+        "n_genes",
+        "mito_fraction",
+        "library_name",
+        "cell_barcode",
+        "leiden",
+        "S_score",
+        "G2M_score",
+        "phase",
+        "state_190806"
+    ],
+    "encoding-type": "dataframe",
+    "encoding-version": "0.1.0"
+}
